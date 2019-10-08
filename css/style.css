@@ -1,0 +1,74 @@
+h1.titre {
+	font-family: 'Inconsolata', monospace;
+}
+
+/* index.html */
+
+div.rubrique {
+	text-align: center;
+}
+
+a.lien-seance {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 20px;
+	font-size: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	transition: 0.3s;
+	border: 2px solid black;
+}
+
+a.lien-seance:hover {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+/* fin */
+
+/* seance1.html */
+
+h2.sous-titre {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+a.lien-seance-download {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 20px;
+	font-size: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	transition: 0.3s;
+	border: 2px solid black;
+}
+
+a.lien-seance-download:hover {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+a.lien-retour {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 20px 25px 20px 25px;
+	border-radius: 50%;
+	font-size: 20px;
+	transition: 0.3s;
+	border: 2px solid black;
+}
+
+a.lien-retour:hover {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+div.retour {
+	margin-top: -215px;
+}
+
+/* fin */
