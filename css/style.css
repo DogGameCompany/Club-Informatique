@@ -4,8 +4,12 @@ h1.titre {
 
 /* index.html */
 
-div.rubrique {
+div.btn-seance {
 	text-align: center;
+}
+
+div.rubrique {
+	display: inline-block;
 }
 
 a.lien-seance {
