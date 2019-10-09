@@ -2,6 +2,10 @@ h1.titre {
 	font-family: 'Inconsolata', monospace;
 }
 
+div.rubrique-download {
+	text-align: center;
+}
+
 /* index.html */
 
 div.btn-seance {
