@@ -6,6 +6,10 @@ div.rubrique-download {
 	text-align: center;
 }
 
+h3.text-h3 {
+	font-family: 'Titillium Web', sans-serif;
+}
+
 /* index.html */
 
 div.btn-seance {
@@ -58,6 +62,19 @@ a.lien-seance-download:hover {
 	border: 2px solid black;
 }
 
+a.lien-seance-open {
+	font-family: 'Titillium Web', sans-serif;
+	color: blue;
+}
+
+a.lien-seance-open:hover {
+	text-decoration: none;
+}
+
+a.lien-seance-open:active {
+	color: red;
+}
+
 a.lien-retour {
 	text-decoration: none;
 	color: white;
@@ -76,7 +93,7 @@ a.lien-retour:hover {
 }
 
 div.retour {
-	margin-top: -215px;
+	margin-top: -325px;
 }
 
 /* fin */
