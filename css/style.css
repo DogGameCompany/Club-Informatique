@@ -29,6 +29,7 @@ a.lien-seance {
 	font-family: 'Titillium Web', sans-serif;
 	transition: 0.3s;
 	border: 2px solid black;
+	border-radius: 8px;
 }
 
 a.lien-seance:hover {
@@ -54,6 +55,7 @@ a.lien-seance-download {
 	font-family: 'Titillium Web', sans-serif;
 	transition: 0.3s;
 	border: 2px solid black;
+	border-radius: 8px;
 }
 
 a.lien-seance-download:hover {
@@ -96,16 +98,4 @@ div.retour {
 	margin-top: 30px;
 }
 
-/* fin */
-
-/* tom */
-a.lien-seance-nul {
-	text-decoration: none;
-	color: white;
-	background-color: grey;
-	padding: 20px;
-	font-size: 20px;
-	font-family: 'Titillium Web', sans-serif;
-	border: 2px solid black;
-}
 /* fin */

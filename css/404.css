@@ -1,0 +1,24 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Inconsolata', monospace;
+}
+
+a.lien-seance {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 20px;
+	font-size: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	transition: 0.3s;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+
+a.lien-seance:hover {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
